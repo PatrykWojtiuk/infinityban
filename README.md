@@ -13,4 +13,4 @@ Aliases:
 
 Permission to reload config.yml: infinityban.op
 
-[b]Tested version: 1.8.8[/b]
+**Tested versions: 1.8.8**
