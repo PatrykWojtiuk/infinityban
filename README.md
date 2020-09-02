@@ -1,4 +1,4 @@
-# infinityban
+# InfinityBan
 Minecraft plugin which disable INFINITY enchant on bow
 
 Players will cannot enchant bow with infinity enchant.
