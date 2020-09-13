@@ -14,3 +14,5 @@ Aliases:
 Permission to reload config.yml: infinityban.op
 
 **Tested versions: 1.8.8**
+
+You can download it also from this site: https://www.spigotmc.org/resources/infinityban.83440/
