@@ -1,9 +1,0 @@
-name: InfinityBan
-main: sg.me.saiyen.infinityban.Main
-version: 1.0v
-author: Saiyen
-commands:
-  infinityban:
-    aliases:
-      - ib
-    usage: /<command>
