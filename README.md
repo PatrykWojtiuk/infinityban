@@ -1,18 +1,20 @@
 # InfinityBan
-Minecraft plugin which disable INFINITY enchant on bow
+## Minecraft plugin which disable INFINITY enchant on bow
 
-Players will cannot enchant bow with infinity enchant.
+Players will cannot use enchant called "infinity" on bow.
 When player will try to do it, he will see title on
 screen which you can set in config.yml
 
-Commands:
-/infinityban reload - this command will reload config.yml
+## Commands:
+- /infinityban reload
 
-Aliases:
-/ib
+## Aliases:
+- /ib
 
-Permission to reload config.yml: infinityban.op
+## Permissios
+- infinityban.op
 
-**Tested versions: 1.8.8**
+## Tested versions
+- 1.8.8
 
-You can download it also from this site: https://www.spigotmc.org/resources/infinityban.83440/
+You can also download it from this site: https://www.spigotmc.org/resources/infinityban.83440/
