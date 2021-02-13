@@ -1,7 +1,7 @@
 # InfinityBan
 ## Minecraft plugin used to block "infinity" enchant on bow
 
-  Players will cannot use enchant called "infinity" on bow.
+<p>Players will cannot use enchant called "infinity" on bow.
 When player will try to do it, he will see title on
 screen which you can set in config.yml
 
